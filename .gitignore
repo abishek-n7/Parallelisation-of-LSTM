@@ -1,0 +1,21 @@
+# Some files from my mac
+.DS_Store
+
+# Files I can produce sometimes
+*.patch
+
+# Executable
+net
+
+# Some products of network sessions
+*.json
+*.net
+*.csv
+
+# Documentation, I only include doxygen configuration file in the repo
+# and files that doxygen produce are not kept under version control
+docs/latex
+docs/html
+
+# Object files
+*.o
